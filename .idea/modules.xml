@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PushToWowza/PushToWowza.iml" filepath="$PROJECT_DIR$/PushToWowza/PushToWowza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RTSPServer/RTSPServer.iml" filepath="$PROJECT_DIR$/RTSPServer/RTSPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDPServer/SDPServer.iml" filepath="$PROJECT_DIR$/SDPServer/SDPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libstreaming/libstreaming.iml" filepath="$PROJECT_DIR$/libstreaming/libstreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libstreaming-examples.iml" filepath="$PROJECT_DIR$/libstreaming-examples.iml" />
+    </modules>
+  </component>
+</project>
